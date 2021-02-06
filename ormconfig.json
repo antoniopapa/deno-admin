@@ -1,0 +1,8 @@
+{
+  "type": "mysql",
+  "port": 3306,
+  "database": "deno_admin",
+  "hostname": "localhost",
+  "username": "root",
+  "password": "rootroot"
+}
